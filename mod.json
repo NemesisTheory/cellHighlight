@@ -1,0 +1,9 @@
+{
+  "name": "cellhighlight",
+  "localizedName": "cellHighlight",
+  "author": "NemesisTheory",
+  "description": "turns unit sprite into cell",
+  "version": 0.1,
+  "minGameVersion": 140,
+  "hidden": true,
+}
